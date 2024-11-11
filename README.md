@@ -4,4 +4,4 @@
 - 공부 기간 :
 
 ## Contents
-- [Spark의 장점](https://github.com/toughcookieseohui/To-learn-Spark.wiki.git)
+- [Spark의 장점](https://github.com/toughcookieseohui/To-learn-Spark/wiki/Spark%EC%9D%98-%EC%9E%A5%EC%A0%90)
